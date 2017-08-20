@@ -1,5 +1,5 @@
 # ez-killnet
-kill whole network (2.4GHz + 5GHz + eth + anything) using arp poisoning 
+kill or mitm whole network (2.4GHz + 5GHz + eth + anything) using arp poisoning (simple & easy scapy way) 
 
 cd to directory and run the following 
 sudo ./ez-killnet.py -i [interface to use for attack] -t [ipaddr to make unreachable on lan] 
